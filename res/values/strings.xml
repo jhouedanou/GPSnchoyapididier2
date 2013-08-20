@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GPS NCho Yao Didier</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Bienvenue.Cliquez sur le bouton pour retrouver le lieu de la manifestation</string>
+    <string name="contacts">Contacter les organisateurs</string>
+	<string name="map_location">google.navigation:q=pharmacie+de+l+ocean+near+Port-Bouet</string>
+</resources>
